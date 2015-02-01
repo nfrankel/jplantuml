@@ -2,7 +2,7 @@ JPlantUML is a Java API to interact with [PlantUML](http://plantuml.com/).
 
 I knew about 3 different ways to interact with PlantUML:
 
-1. The [online]((http://www.plantuml.com/plantuml/form) server
+1. The [online](http://www.plantuml.com/plantuml/form) server
 2. A confluence plugin
 3. Installing the stuff on the local machine
 
