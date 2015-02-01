@@ -1,0 +1,6 @@
+plantuml:
+    server-url: http://www.plantuml.com/plantuml/form
+    param-name: text
+    img-css-selector: p#diagram img
+    directory-in: /tmp/in
+    directory-out: /tmp/out
